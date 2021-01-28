@@ -1,0 +1,43 @@
+@font-face {
+    font-family: 'Big John PRO';
+    src: url('../font/BigJohnPRO-Regular.eot');
+    src: local('Big John PRO Regular'), local('BigJohnPRO-Regular'),
+        url('../font/BigJohnPRO-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../font/BigJohnPRO-Regular.woff2') format('woff2'),
+        url('../font/BigJohnPRO-Regular.woff') format('woff'),
+        url('../font/BigJohnPRO-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Big John PRO';
+    src: url('../font/BigJohnPRO-Bold.eot');
+    src: local('Big John PRO Bold'), local('BigJohnPRO-Bold'),
+        url('BigJohnPRO-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../font/BigJohnPRO-Bold.woff2') format('woff2'),
+        url('../font/BigJohnPRO-Bold.woff') format('woff'),
+        url('../font/BigJohnPRO-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Big John PRO';
+    src: url('../font/BigJohnPRO-Light.eot');
+    src: local('Big John PRO Light'), local('BigJohnPRO-Light'),
+        url('../font/BigJohnPRO-Light.eot?#iefix') format('embedded-opentype'),
+        url('../font/BigJohnPRO-Light.woff2') format('woff2'),
+        url('../font/BigJohnPRO-Light.woff') format('woff'),
+        url('../font/BigJohnPRO-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BIG JOHN';
+    src: url('../font/BIG JOHN.otf');
+    src: local('BIG JOHN'), local('BIG JOHN'),
+    font-style: normal;
+}
+
